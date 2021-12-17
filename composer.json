@@ -1,0 +1,21 @@
+{
+  "name": "mahmutbayri/aws-cognito-hosted-ui-php-sample-app",
+  "authors": [
+    {
+      "name": "Mahmut Bayri",
+      "email": "mahmutbayri@yahoo.com"
+    }
+  ],
+  "require": {
+    "vlucas/phpdotenv": "^5.4",
+    "aws/aws-sdk-php": "^3.208"
+  },
+  "require-dev": {
+    "symfony/var-dumper": "^5.4"
+  },
+  "config": {
+    "platform": {
+      "php": "7.2.5"
+    }
+  }
+}
